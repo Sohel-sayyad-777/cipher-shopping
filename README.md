@@ -1,2 +1,2 @@
 # cipher-shopping
-Author - Sayyad Sohel
+Author - Sohel sayyad
